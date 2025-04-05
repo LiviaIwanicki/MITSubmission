@@ -165,7 +165,7 @@ standard_title_count | non_standard_title_count
 
 
 ## Task 2: Data Analysis & Visualization
-See Screenshots folder for visuals.
+See Task2MIT.ipynb for visuals.
 
 Key Metrics (2019)
 Top Committees by Lobbying Dollars:
