@@ -1,0 +1,18 @@
+name: 'ecommerce_project'
+version: '1.0'
+config-version: 2
+profile: 'default'
+source-paths: ["models"]
+analysis-paths: ["analysis"]
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules"
+seeds:
+  quote_columns: false
+models:
+  ecommerce_project:
+    staging:
+      materialized: view
+    marts:
+      materialized: table
