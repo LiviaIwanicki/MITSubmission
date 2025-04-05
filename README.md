@@ -231,3 +231,12 @@ Broad-influence committees (High filings, mid $: Ways & Means)
 Suggested Refinements For future analysis, I'd recommend:
 
 Tracking which bills actually became laws would help measure real committee impact. If we knew which committees advanced the most successful bills, we could compare lobbying activity to actual results. For example, a committee might attract lots of lobbying money but rarely pass bills, while another with less lobbying might be more effective at turning bills into laws. This would show whether lobbying dollars match real-world influence.
+
+
+Task 3/4: Submission Materials
+
+Code Sample: dbt Project
+
+Full SQL Scripts: Located in MIT_Exam/
+
+Visualizations: Generated from TASK2.ipynb
